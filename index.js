@@ -9,5 +9,5 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
 
     return obj;
   }
-  
-}
+
+
